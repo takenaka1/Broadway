@@ -42,3 +42,15 @@ p {
   background-size: cover;
   color: white;
 }
+
+/*footer keep left*/
+#footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+/*footer text: white 11px*/
+#footer p {
+  color: white;
+  font-size: 11px;
+}
